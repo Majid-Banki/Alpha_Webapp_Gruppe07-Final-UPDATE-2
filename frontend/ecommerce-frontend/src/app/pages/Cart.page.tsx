@@ -1,0 +1,1 @@
+// Handlekurv-siden (fullskjerm).
